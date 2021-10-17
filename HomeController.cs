@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AppointmentScheduling.Controllers
+namespace Appointment_Scheduling.Controllers
 {
     public class HomeController : Controller
     {
